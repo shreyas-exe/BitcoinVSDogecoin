@@ -1,2 +1,2 @@
 # BitcoinVSDogecoin
-i have made a website using cryptonator api . whenever the value of bitcoin or dogecoin drops or rises the value here will accordingly change. 
+I Have Made A Website Using Cryptonator Api . Whenever The Value Of Bitcoin Or Dogecoin Drops Or Rises The Value Here Will Accordingly Change. 
